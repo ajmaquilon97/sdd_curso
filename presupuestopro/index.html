@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es-EC">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PresupuestosPro</title>
+  <link rel="stylesheet" href="src/estilos.css">
+</head>
+<body>
+  <header class="barra">
+    <span class="marca">PresupuestosPro</span>
+    <nav id="nav" aria-label="Secciones">
+      <button type="button" data-p="negocio">Negocio</button>
+      <button type="button" data-p="servicios">Servicios</button>
+      <button type="button" data-p="clientes">Clientes</button>
+      <button type="button" data-p="presupuesto">Presupuesto</button>
+    </nav>
+  </header>
+  <main id="app" class="contenedor"></main>
+  <script src="src/vendor/jspdf.umd.min.js"></script>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
