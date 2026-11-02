@@ -4,7 +4,7 @@
 
 **Created**: 2026-10-31
 
-**Status**: Draft
+**Status**: Approved
 
 **Input**: User description: "bien, necesitamos ahora que el diseno de los presupuestos se puedan guardar en una base en memoria, y puedan ser consultados."
 
