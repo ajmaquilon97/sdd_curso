@@ -116,6 +116,8 @@ td.acciones .boton { margin-left: .35rem; }
 .mensaje.error { color: var(--error); background: #fef2f2; border-color: #fca5a5; }
 .mensaje.ok { color: var(--ok); background: #f0fdf4; border-color: #86efac; }
 .vacio { color: var(--suave); text-align: center; padding: var(--esp); }
+.aviso { color: var(--suave); font-size: .9rem; border-left: 3px solid var(--borde); padding-left: .6rem; }
+input[type="search"] { width: 100%; padding: .55rem .7rem; border: 1px solid var(--borde); border-radius: 6px; font: inherit; }
 
 /* Totales */
 .totales { text-align: right; margin-top: var(--esp); }

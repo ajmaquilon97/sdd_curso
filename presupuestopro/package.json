@@ -7,6 +7,7 @@
     "test": "vitest run"
   },
   "devDependencies": {
+    "sql.js": "^1.15.2",
     "vitest": "^2.1.0"
   },
   "dependencies": {
